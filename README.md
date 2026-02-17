@@ -1,4 +1,4 @@
-# Children’s Day Tribute Webpage – 2025
+# Children’s Day Tribute Webpage
 A heartfelt web page dedicated to Pandit Jawaharlal Nehru (Chacha Nehru), celebrating his love, vision, and contribution towards children and education in India.
 
 ## About the Project
