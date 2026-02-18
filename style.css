@@ -12,7 +12,7 @@
 
 @font-face {
     font-family: 'Nourd';
-    src: url('../font/nourd_bold.ttf') format('truetype');
+    src: url('./font/nourd_bold.ttf') format('truetype');
     font-weight: bold;
 }
 
