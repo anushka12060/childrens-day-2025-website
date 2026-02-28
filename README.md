@@ -6,12 +6,11 @@ This project is a simple, elegant, and informative webpage created to commemorat
 
 ## Tech Stack
 •HTML5 – Structure and content  
-•CSS3 – Styling and layout (imported via style.css)  
+•CSS3 – Styling and layout
 •Layout: CSS Grid and Flexbox  
 
 ## Features  
 •Responsive Design: Optimized for desktop, tablet, and mobile devices  
 •Modern UI/UX: Clean, accessible interface with thoughtful typography  
 •Educational Content: Comprehensive information about Children's Day significance  
-•Visual Hierarchy: Well-structured content sections with clear information flow  
-•Interactive Elements: Hover effects and smooth transitions  
+•Visual Hierarchy: Well-structured content sections with clear information flow 
